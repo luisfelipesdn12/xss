@@ -1,3 +1,3 @@
-export const main = () => {
+const main = () => {
   console.log("Testing");
 }
